@@ -32,7 +32,7 @@ A visual helper addon for Zealot and Runepriest in Warhammer Online Return of Re
 * **DPS and Out of Range** Red = out of range of Nexus or Conduit healing (the pointer returns to default on the next heal), or DPS version of the Nexus or Conduit
 
 * The DPS Nexus or Conduit tactic is detected when placed so you must cancel and recast the Nexus or Conduit after changing tactics
-* The symbol only tracks YOUR ritual while the pointer also tracks another Zealot or Runepriest ritual and healing
+* The symbol only tracks YOUR ritual while the color also tracks another Zealot or Runepriest ritual and healing
 
 ## Custom Images
 
