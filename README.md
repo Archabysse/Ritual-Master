@@ -66,7 +66,7 @@ Remember `/rm reset` to go back to original settings
 
 Huge thanks to:
 
-* **Sullemunk**: "Harbinger" is the base the addon
+* **Sullemunk**: "Harbinger" is the base of this addon
 * **Talvinen**: "TargetRing" for the technique of attaching a symbol to a world object
 * **Laydie** For the legendary help
 
