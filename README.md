@@ -4,9 +4,9 @@ A visual helper addon for Zealot and Runepriest in Warhammer Online Return of Re
 
 ## Installation
 
-1 Download the latest release from the Releases page
-2 Extract the RitualMaster folder into your Interface AddOns directory
-3 Launch or reload the game and enable the addon in the User Interface menu
+*1 Download the latest release from the Releases page
+*2 Extract the RitualMaster folder into your Interface AddOns directory
+*3 Launch or reload the game and enable the addon in the User Interface menu
 
 ## Commands
 
