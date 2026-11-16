@@ -21,10 +21,10 @@ A visual helper addon for Zealot and Runepriest in Warhammer Online Return of Re
 * `/rm colors` enables or disables colors (otherwise default color)
 * `/rm size pointer 0 | symbol 0 | dps 0 | heal 0` replace 0 with the size in pixels of YOUR images (0 = 64, the default value)
 
-Invalid commands display the list of commands
-Any change displays the status (or sizes for `/rm size`)
-Each command displays the settings status and the command list only appears on error
-Settings are saved per character
+* Invalid commands display the list of commands
+* Any change displays the status (or sizes for `/rm size`)
+* Each command displays the settings status and the command list only appears on error
+* Settings are saved per character
 
 ## Colors and Mechanics
 
@@ -32,8 +32,8 @@ Settings are saved per character
 * **Runepriest Colors** Fury = orange | Stability = yellow | Adamant = deep blue | default = turquoise
 * **DPS and Out of Range** Red = out of range of Nexus or Conduit healing (the pointer returns to default on the next heal), or DPS version of the Nexus or Conduit
 
-The DPS Nexus or Conduit tactic is detected when placed so you must cancel and recast the Nexus or Conduit after changing tactics
-The symbol only tracks YOUR ritual while the pointer also tracks another Zealot or Runepriest ritual and healing
+* The DPS Nexus or Conduit tactic is detected when placed so you must cancel and recast the Nexus or Conduit after changing tactics
+* The symbol only tracks YOUR ritual while the pointer also tracks another Zealot or Runepriest ritual and healing
 
 ## Custom Images
 
@@ -56,18 +56,18 @@ Remember `/rm reset` to go back to original settings
 
 ## Bonus Content
 
-The BONUS folder contains 2 image packs, plus a 3rd one containing blank images
-There is also a directory with a nice collection of images
-Keep what you want and delete the rest
-Useful information: The images use the same format as the badges in Dawn of War Soulstorm
+* The BONUS folder contains 2 image packs, plus a 3rd one containing blank images
+* There is also a directory with a nice collection of images
+* Keep what you want and delete the rest
+* Useful information: The images use the same format as the badges in Dawn of War Soulstorm
 
 ## Credits
 
-This addon was created by Claude.ai (AI) under the supervision of a brainless Zealot, thanks to the addon creators listed below
-We decline all responsibility in the event of an explosion, possession by a daemonic entity, or any Warp anomaly caused by this addon
-You are free to modify this addon
+* This addon was created by Claude.ai (AI) under the supervision of a brainless Zealot, thanks to the addon creators listed below
+* We decline all responsibility in the event of an explosion, possession by a daemonic entity, or any Warp anomaly caused by this addon
+* You are free to modify this addon
 
-A huge thank you to:
+Huge thanks to:
 
 * **Sullemunk** Harbinger, which inspired the addon
 * **Talvinen** TargetRing, for the technique of attaching a symbol to a world object
