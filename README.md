@@ -23,7 +23,6 @@ A visual helper addon for Zealot and Runepriest in Warhammer Online Return of Re
 
 * Invalid commands display the list of commands
 * Any change displays the status (or sizes for `/rm size`)
-* Each command displays the settings status and the command list only appears on error
 * Settings are saved per character
 
 ## Colors and Mechanics
@@ -57,9 +56,7 @@ Remember `/rm reset` to go back to original settings
 ## Bonus Content
 
 * The BONUS folder contains 2 image packs, plus a 3rd one containing blank images
-* There is also a directory with a nice collection of images
-* Keep what you want and delete the rest
-* Useful information: The images use the same format as the badges in Dawn of War Soulstorm
+* There is also a directory with a short collection of images, keep what you want and delete the rest
 
 ## Credits
 
@@ -73,4 +70,4 @@ Huge thanks to:
 * **Talvinen** TargetRing, for the technique of attaching a symbol to a world object
 * **Laydie** For the legendary help
 
-Created by Abyss
+-Abyss
