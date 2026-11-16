@@ -41,8 +41,14 @@ Images must be 32-bit TGA with transparency and the SAME SIZE as your chosen val
 * `zealot_dps` / `zealot_heal` / `runepriest_dps` / `runepriest_heal` (TGA format, 64x64) Harbinger icons (any colors)
 * `symbol` / `rp_symbol` (TGA format, 64x64) symbol on the Nexus for Zealot or Runepriest, preferably WHITE (tinted by the color)
 * `pointer` / `rp_pointer` (TGA format, 64x64) pointer player icon with notch at the BOTTOM facing the Nexus, preferably WHITE (tinted by the color)
+* 
+* To change a picture, replace any in the main addon folder
+* You can use a square image with larger dimensions and then change the settings in-game with `/rm size`
 
-You can use a square image with larger dimensions and then change the settings in-game with `/rm size`
+## Bonus Content
+
+* The BONUS folder contains 2 image packs, plus a 3rd one containing blank images
+* There is also a directory with a short collection of images, keep what you want and delete the rest
 
 ## UI Layout Editor
 
@@ -52,11 +58,6 @@ Two elements can be moved in the UI layout editor
 * Ritual Master - Pointer
 
 Remember `/rm reset` to go back to original settings
-
-## Bonus Content
-
-* The BONUS folder contains 2 image packs, plus a 3rd one containing blank images
-* There is also a directory with a short collection of images, keep what you want and delete the rest
 
 ## Credits
 
