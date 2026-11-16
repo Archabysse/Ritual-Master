@@ -1,4 +1,4 @@
-# Ritual Master 1 5
+# Ritual Master (AI: made by claude.ai)
 
 A visual helper addon for Zealot and Runepriest in Warhammer Online Return of Reckoning
 
@@ -63,7 +63,7 @@ Useful information: The images use the same format as the badges in Dawn of War 
 
 ## Credits
 
-This addon was created by Claude under the supervision of a brainless Zealot, thanks to the addon creators listed below
+This addon was created by Claude.ai (AI) under the supervision of a brainless Zealot, thanks to the addon creators listed below
 We decline all responsibility in the event of an explosion, possession by a daemonic entity, or any Warp anomaly caused by this addon
 You are free to modify this addon
 
