@@ -29,9 +29,9 @@ A visual helper addon for Zealot and Runepriest in Warhammer Online Return of Re
 
 * **Zealot Colors** Superiority = cyan | Lunacy = yellow | Innervation = orange | default = pink
 * **Runepriest Colors** Fury = orange | Stability = yellow | Adamant = deep blue | default = turquoise
-* **DPS and Out of Range** Red = out of range of Nexus or Conduit healing (the pointer returns to default on the next heal), or DPS version of the Nexus or Conduit
+* **DPS and Out of Range** = Red: out of range of Nexus/Conduit healing (the pointer returns to default on the next heal), or DPS version of the Nexus or Conduit
 
-* The DPS Nexus or Conduit tactic is detected when placed so you must cancel and recast the Nexus or Conduit after changing tactics
+* The DPS Nexus/Conduit tactic is detected when placed so you must cancel and recast the Nexus/Conduit after changing tactics
 * The symbol only tracks YOUR ritual while the color also tracks another Zealot or Runepriest ritual and healing
 
 ## Custom Images
