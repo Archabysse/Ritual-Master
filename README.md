@@ -40,7 +40,7 @@ Images must be 32-bit TGA with transparency and the SAME SIZE as your chosen val
 * `zealot_dps` / `zealot_heal` / `runepriest_dps` / `runepriest_heal` : Harbinger icons (any colors)
 * `symbol` / `rp_symbol` : symbol on the Nexus for Zealot or Runepriest, preferably WHITE (tinted by the color)
 * `pointer` / `rp_pointer` : pointer, icon with notch at the BOTTOM, preferably WHITE (tinted by the color)
-* 
+
 * You can use a square image with larger dimensions and then change the settings in-game with `/rm size`
 
 Two elements can be moved in the UI layout editor
