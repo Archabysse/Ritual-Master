@@ -27,30 +27,21 @@ A visual helper addon for Zealot and Runepriest in Warhammer Online Return of Re
 
 ## Colors and Mechanics
 
-* **Zealot Colors** Superiority = cyan | Lunacy = yellow | Innervation = orange | default = pink
-* **Runepriest Colors** Fury = orange | Stability = yellow | Adamant = deep blue | default = turquoise
-* **DPS and Out of Range** = Red: out of range of Nexus/Conduit healing (the pointer returns to default on the next heal), or DPS version of the Nexus or Conduit
+* **Zealot Colors**: Superiority = cyan | Lunacy = yellow | Innervation = orange | default = pink
+* **Runepriest Colors**: Fury = orange | Stability = yellow | Adamant = deep blue | default = turquoise
+* **DPS and Out of Range**=Red: out of range of Nexus/Conduit healing; or DPS version of the Nexus or Conduit
 
-* The DPS Nexus/Conduit tactic is detected when placed so you must cancel and recast the Nexus/Conduit after changing tactics
-* The symbol only tracks YOUR ritual while the color also tracks another Zealot or Runepriest ritual and healing
+* The symbol only tracks YOUR ritual while the pointer tracks another Zealot or Runepriest ritual and healing
 
 ## Custom Images
 
 Images must be 32-bit TGA with transparency and the SAME SIZE as your chosen value in-game with `/rm size` (default is 64x64)
 
-* `zealot_dps` / `zealot_heal` / `runepriest_dps` / `runepriest_heal` (TGA format, 64x64) Harbinger icons (any colors)
-* `symbol` / `rp_symbol` (TGA format, 64x64) symbol on the Nexus for Zealot or Runepriest, preferably WHITE (tinted by the color)
-* `pointer` / `rp_pointer` (TGA format, 64x64) pointer player icon with notch at the BOTTOM facing the Nexus, preferably WHITE (tinted by the color)
+* `zealot_dps` / `zealot_heal` / `runepriest_dps` / `runepriest_heal` : Harbinger icons (any colors)
+* `symbol` / `rp_symbol` : symbol on the Nexus for Zealot or Runepriest, preferably WHITE (tinted by the color)
+* `pointer` / `rp_pointer` : pointer, icon with notch at the BOTTOM, preferably WHITE (tinted by the color)
 * 
-* To change a picture, replace any in the main addon folder
 * You can use a square image with larger dimensions and then change the settings in-game with `/rm size`
-
-## Bonus Content
-
-* The BONUS folder contains 2 image packs, plus a 3rd one containing blank images
-* There is also a directory with a short collection of images, keep what you want and delete the rest
-
-## UI Layout Editor
 
 Two elements can be moved in the UI layout editor
 
@@ -58,6 +49,12 @@ Two elements can be moved in the UI layout editor
 * Ritual Master - Pointer
 
 Remember `/rm reset` to go back to original settings
+
+## Bonus Content
+
+* The BONUS folder contains 2 image packs, plus a 3rd one containing blank images
+* There is also a directory with a short collection of images, keep what you want and delete the rest
+* To change a picture, replace the matching file in the main addon folder
 
 ## Credits
 
