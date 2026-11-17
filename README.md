@@ -5,6 +5,7 @@ A visual helper addon for Zealot and Runepriest in Warhammer Online Return of Re
 ## Installation and Requirements
 
 * Ritual Master requires the addon LibSlash
+
   
 * Download the latest release from the Releases page
 * Extract the RitualMaster folder into your Interface AddOns directory
