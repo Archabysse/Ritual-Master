@@ -29,7 +29,7 @@ A visual helper addon for Zealot and Runepriest in Warhammer Online Return of Re
 
 * **Zealot Colors**: Superiority = cyan | Lunacy = yellow | Innervation = orange | default = pink
 * **Runepriest Colors**: Fury = orange | Stability = yellow | Adamant = deep blue | default = turquoise
-* **DPS and Out of Range**=Red: out of range of Nexus/Conduit healing; or DPS version of the Nexus or Conduit
+* **DPS and Out of Range** = Red: out of range of Nexus/Conduit healing; or DPS version of the Nexus or Conduit
 
 * The symbol only tracks YOUR ritual while the pointer tracks another Zealot or Runepriest ritual and healing
 
@@ -66,6 +66,6 @@ Huge thanks to:
 
 * **Sullemunk**: "Harbinger" is the base of this addon
 * **Talvinen**: "TargetRing" for the technique of attaching a symbol to a world object
-* **Laydie** For the legendary help
+* **Laydie**: For the legendary help
 
 -Abyss
