@@ -1,10 +1,11 @@
-# Ritual Master (AI: made by claude.ai)
+# Ritual Master (AI: made with claude.ai)
 
 A visual helper addon for Zealot and Runepriest in Warhammer Online Return of Reckoning
 
 ## Installation and Requirements
 
 * Ritual Master requires the addon LibSlash
+  
 * Download the latest release from the Releases page
 * Extract the RitualMaster folder into your Interface AddOns directory
 * Launch or reload the game and enable the addon in the User Interface menu
