@@ -1,6 +1,7 @@
-# Ritual Master (AI: made with claude.ai)
+# Ritual Master (AI)
 
 A visual helper addon for Zealot and Runepriest in Warhammer Online Return of Reckoning
+Based on Sullemunk addons and made with claude.ai
 
 ## Installation and Requirements
 
